@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fc9"
+  },
+  "id": 1,
+  "name": "Breaking Bad",
+  "release_date": "2008-01-20",
+  "rating": "9.5",
+  "description": "La vida de un profesor de química se transforma cuando se adentra en el mundo del narcotráfico para asegurar el futuro financiero de su familia.",
+  "img": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+  "clientId": "66f5a445153c054941d4face",
+  "creator": "Vince Gilligan"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fca"
+  },
+  "id": 2,
+  "name": "Game of Thrones",
+  "release_date": "2011-04-17",
+  "rating": "9.3",
+  "description": "Nobles familias luchan por el control del Trono de Hierro en un mundo de dragones, magia y traición.",
+  "img": "https://image.tmdb.org/t/p/w500/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+  "clientId": "66f5a445153c054941d4fad3",
+  "creator": "David Benioff"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fcb"
+  },
+  "id": 3,
+  "name": "Stranger Things",
+  "release_date": "2016-07-15",
+  "rating": "8.7",
+  "description": "Un grupo de niños enfrenta eventos sobrenaturales en un pequeño pueblo mientras buscan a su amigo desaparecido.",
+  "img": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+  "clientId": "66f5a445153c054941d4facb",
+  "creator": "Duffer Brothers"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fcc"
+  },
+  "id": 4,
+  "name": "The Mandalorian",
+  "release_date": "2019-11-12",
+  "rating": "8.7",
+  "description": "Un cazarrecompensas solitario navega por la galaxia en la era posterior a la caída del Imperio.",
+  "img": "https://m.media-amazon.com/images/M/MV5BNjgxZGM0OWUtZGY1MS00MWRmLTk2N2ItYjQyZTI1OThlZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "clientId": "66f5a445153c054941d4facb",
+  "creator": "Jon Favreau"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fcd"
+  },
+  "id": 5,
+  "name": "The Office",
+  "release_date": "2005-03-24",
+  "rating": "9.2",
+  "description": "Un grupo de empleados de oficina navega por la vida laboral diaria con un jefe excéntrico y situaciones hilarantes.",
+  "img": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
+  "clientId": "66f5a445153c054941d4facc",
+  "creator": "Greg Daniels"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fce"
+  },
+  "id": 6,
+  "name": "Sherlock",
+  "release_date": "2010-07-25",
+  "rating": "9.1",
+  "description": "Una versión moderna de las aventuras del detective Sherlock Holmes y su compañero, el Dr. Watson.",
+  "img": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "clientId": "66f5a445153c054941d4fada",
+  "creator": "Mark Gatiss"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fcf"
+  },
+  "id": 7,
+  "name": "Friends",
+  "release_date": "1994-09-22",
+  "rating": "8.9",
+  "description": "Seis amigos en Nueva York enfrentan los altibajos de la vida personal y profesional con humor y camaradería.",
+  "img": "https://image.tmdb.org/t/p/w500/f496cm9enuEsZkSPzCwnTESEK5s.jpg",
+  "clientId": "66f5a445153c054941d4fae1",
+  "creator": "David Crane"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fd0"
+  },
+  "id": 8,
+  "name": "The Crown",
+  "release_date": "2016-11-04",
+  "rating": "8.6",
+  "description": "La historia de la reina Isabel II y los eventos políticos y personales que marcaron su reinado.",
+  "img": "https://m.media-amazon.com/images/M/MV5BNjU2NzA5MzgyM15BMl5BanBnXkFtZTgwNDAwOTUxMDI@._V1_.jpg",
+  "clientId": "66f5a445153c054941d4fad5",
+  "creator": "Peter Morgan"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fd1"
+  },
+  "id": 9,
+  "name": "Los Soprano",
+  "release_date": "1999-01-10",
+  "rating": "9.2",
+  "description": "La vida del mafioso Tony Soprano mientras equilibra las demandas de su familia y el negocio criminal.",
+  "img": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+  "clientId": "66f5a445153c054941d4face",
+  "creator": "David Chase"
+},
+{
+  "_id": {
+    "$oid": "66ec8d891ca8f20776a07fd2"
+  },
+  "id": 10,
+  "name": "The Witcher",
+  "release_date": "2019-12-20",
+  "rating": "8.2",
+  "description": "El cazador de monstruos Geralt de Rivia navega por un mundo lleno de peligros, intrigas políticas y magia.",
+  "img": "https://image.tmdb.org/t/p/w500/zrPpUlehQaBf8YX2NrVrKK8IEpf.jpg",
+  "clientId": "66f5a445153c054941d4fad3",
+  "creator": " Lauren Schmidt Hissrich"
+}]

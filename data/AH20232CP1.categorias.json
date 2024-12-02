@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac7"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Acción",
+  "descripcion": "Películas o series con escenas de gran intensidad física y combates."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac8"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Apocalíptico",
+  "descripcion": "Historias que exploran el fin del mundo o escenarios post-apocalípticos."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fac9"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Aventura",
+  "descripcion": "Narrativas de exploración, viajes y grandes desafíos por superar."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4faca"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Ciberpunk",
+  "descripcion": "Series situadas en un futuro distópico con alta tecnología y sociedades caóticas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facb"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Ciencia Ficción",
+  "descripcion": "Historias futuristas que exploran lo imposible mediante la ciencia."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facc"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Comedia",
+  "descripcion": "Series cuyo objetivo principal es hacer reír al público con situaciones cómicas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facd"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Comedia Romántica",
+  "descripcion": "Historias que combinan el romance con situaciones humorísticas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4face"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Crimen",
+  "descripcion": "Narrativas centradas en la resolución de crímenes y misterios."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4facf"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Deporte",
+  "descripcion": "Series que se enfocan en la competencia atlética y el espíritu deportivo."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad0"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Documental",
+  "descripcion": "Series basadas en hechos reales, informando y educando sobre diversos temas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad1"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Drama Político",
+  "descripcion": "Historias que exploran conflictos políticos y sus impactos en la sociedad."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad2"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Espionaje",
+  "descripcion": "Narrativas sobre espías y misiones secretas en el ámbito internacional."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad3"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Fantasía",
+  "descripcion": "Historias que incluyen elementos mágicos, criaturas míticas y mundos imaginarios."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad4"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Familiar",
+  "descripcion": "Series adecuadas para todos los miembros de la familia, con valores universales."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad5"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Histórica",
+  "descripcion": "Narrativas que representan eventos o figuras históricas reales o inspiradas en hechos pasados."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad6"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Infantil",
+  "descripcion": "Series diseñadas especialmente para un público joven, con enseñanzas y valores."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad7"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Legal",
+  "descripcion": "Historias que giran en torno al mundo del derecho, abogados y juicios."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad8"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Medicina",
+  "descripcion": "Series sobre profesionales de la salud, médicos y hospitales."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fad9"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Militar",
+  "descripcion": "Historias relacionadas con las fuerzas armadas, batallas y misiones militares."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fada"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Misterio",
+  "descripcion": "Narrativas que giran en torno a enigmas, secretos y sorpresas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fadb"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Musical",
+  "descripcion": "Series donde la música juega un papel central, con números musicales y canciones."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fadc"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Romance",
+  "descripcion": "Historias centradas en relaciones amorosas, emociones y sentimientos."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fadd"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Sitcom",
+  "descripcion": "Series cómicas que siguen situaciones y personajes recurrentes."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fade"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Superhéroes",
+  "descripcion": "Series que siguen a personajes con habilidades extraordinarias enfrentando villanos."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fadf"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Suspenso",
+  "descripcion": "Narrativas que generan tensión e incertidumbre, manteniendo al espectador al borde de su asiento."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fae0"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Telenovela",
+  "descripcion": "Historias dramáticas que exploran el amor, el sufrimiento y la pasión, con tramas prolongadas."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fae1"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Terror",
+  "descripcion": "Series diseñadas para provocar miedo, horror y ansiedad."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fae2"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Thriller Psicológico",
+  "descripcion": "Historias de suspenso que exploran las emociones y mentes de los personajes."
+},
+{
+  "_id": {
+    "$oid": "66f5a445153c054941d4fae3"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "Western",
+  "descripcion": "Series ambientadas en el viejo oeste, con temas de justicia y vida en la frontera."
+},
+{
+  "_id": {
+    "$oid": "674a5723324def980cb05646"
+  },
+  "foto": "https://picsum.photos/200",
+  "nombre": "234",
+  "foto": null,
+  "descripcion": "fd"
+}]

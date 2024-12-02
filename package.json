@@ -1,0 +1,22 @@
+{
+  "name": "serieslab",
+  "version": "1.0.0",
+  "description": "Un servidor para almacenar y categorizar tus series favoritas!",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js --ignore *.json "
+  },
+  "keywords": [],
+  "author": "belen lo tartaro",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.9.0"
+  }
+}
